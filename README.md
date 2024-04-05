@@ -111,7 +111,7 @@ The primary objectives of this analysis include:
 
 **3. HR Data.csv:** CSV file containing the HR dataset used for analysis.     
 
-**4. README.md:** Project overview, dataset description, analysis objectives, tools and technologies used and files included.
+**4. README.md:** Project overview, dataset description, analysis objectives, tools and technologies, files included, conclusion and acknowledgements.
 
 # CONCLUSION 
 
