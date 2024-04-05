@@ -98,17 +98,23 @@ The primary objectives of this analysis include:
 # TOOLS AND TECHNOLOGIES USED
 
 **1. Programming Language:** Python
+
 **2. Libraries:** Pandas, NumPy, Matplotlib, Seaborn    
+
 **3. Database:** MYSQL (for manipulation)      
+
 **4. Development Environment:** Jupyter Notebook     
 
 # FILES INCLUDED
-**1. HR_Data_Analysis.ipynb:** Jupyter Notebook containing the data analysis code and visualizations.     
+**1. HR_Data_Analysis.ipynb:** Jupyter Notebook containing the data analysis code and visualizations.   
+
 **2. HR Data Analysis.sql:** SQL file (Analysis and Manipulation).     
+
 **3. HR Data.csv:** CSV file containing the HR dataset used for analysis.     
+
 **4. README.md:** Project overview, dataset description, analysis objectives, tools and technologies used and files included.
 
-# CONCLUSION REPORT
+# CONCLUSION 
 
 The analysis of employee attrition within our company has provided valuable insights into the factors influencing employee turnover. From our findings, it's evident that certain departments, job roles, demographics, and work-related factors significantly contribute to attrition rates.
 
@@ -136,7 +142,7 @@ The analysis of employee attrition within our company has provided valuable insi
 
 **5. Diversity and Inclusion:** Evaluate gender-specific attrition patterns and implement strategies to promote gender diversity and inclusivity. Address any disparities in opportunities or treatment that may contribute to higher attrition among certain demographic groups.
 
-**KEY AREAS TO FOCUS:**
+**KEY AREAS OF FOCUS:**
 
 **1. Talent Retention Programs:** Develop comprehensive talent retention programs focusing on career development, employee engagement, and work-life balance initiatives.      
 
