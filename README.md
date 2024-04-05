@@ -90,6 +90,20 @@ The primary objectives of this analysis include:
 2. Performance Evaluation: Analyzing correlations between job satisfaction, performance ratings, and career progression metrics.       
 3. Compensation Benchmarking: Assessing salary distributions across departments and job levels to ensure fair compensation practices.        
 4. Workforce Planning: Identifying skill gaps, training needs, and succession planning opportunities within the organization.          
-5. Diversity and Inclusion: Examining demographic data to promote diversity and inclusion initiatives
+5. Diversity and Inclusion: Examining demographic data to promote diversity and inclusion initiatives.
 
+# TOOLS AND TECHNOLOGIES USED
 
+Programming Language: Python
+Libraries: Pandas, NumPy, Matplotlib, Seaborn
+Database: MYSQL (for manipulation)
+Development Environment: Jupyter Notebook 
+
+# FILES INCLUDED
+HR_Data_Analysis.ipynb: Jupyter Notebook containing the data analysis code and visualizations.
+HR Data Analysis.sql: SQL file (Analysis and Manipulation).
+HR Data.csv: CSV file containing the HR dataset used for analysis.
+README.md: Project overview, dataset description, analysis objectives, tools and technologies used and files included.
+
+# ACKNOWLEDGEMENTS 
+Special thanks to AFAME TECHNOLOGIES for providing the HR dataset used in this analysis.
