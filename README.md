@@ -6,7 +6,6 @@ In today's dynamic business environment, organizations recognize the critical im
 The HR Data Analysis aims to leverage data analytics techniques to gain actionable insights into various aspects of employee management, including recruitment, retention, performance evaluation, and talent development. By analyzing HR data systematically, organizations can make informed decisions, optimize HR processes, and enhance employee engagement and satisfaction.
 
 # DATASET DESCRIPTION 
-Dataset Description
 
 The dataset contains information about employees in a company. Here is a description of each column:
 
