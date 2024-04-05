@@ -11,7 +11,9 @@ Dataset Description
 The dataset contains information about employees in a company. Here is a description of each column:
 
 Age: The age of the employee (integer).
+
 Attrition: Whether the employee has left the company or not (object).
+
 BusinessTravel: Frequency of business travel (object).
 DailyRate: The daily rate of pay for the employee (integer).
 Department: Department in which the employee works (object).
