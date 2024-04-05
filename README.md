@@ -14,11 +14,11 @@ Age: The age of the employee (integer).
 
 Attrition: Whether the employee has left the company or not (object).
 
-BusinessTravel: Frequency of business travel (object).
-DailyRate: The daily rate of pay for the employee (integer).
-Department: Department in which the employee works (object).
-DistanceFromHome: Distance from home to work in miles (integer).
-Education: Level of education of the employee (integer).
+BusinessTravel: Frequency of business travel (object). 
+DailyRate: The daily rate of pay for the employee (integer). 
+Department: Department in which the employee works (object).  
+DistanceFromHome: Distance from home to work in miles (integer). 
+Education: Level of education of the employee (integer). 
 EducationField: Field of education of the employee (object).
 EmployeeCount: Number of employees (always 1) (integer).
 EmployeeNumber: Unique identifier for each employee (integer).
