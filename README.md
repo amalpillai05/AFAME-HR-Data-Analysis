@@ -94,16 +94,16 @@ The primary objectives of this analysis include:
 
 # TOOLS AND TECHNOLOGIES USED
 
-Programming Language: Python
-Libraries: Pandas, NumPy, Matplotlib, Seaborn
-Database: MYSQL (for manipulation)
-Development Environment: Jupyter Notebook 
+1. Programming Language: Python
+2. Libraries: Pandas, NumPy, Matplotlib, Seaborn    
+3. Database: MYSQL (for manipulation)      
+4. Development Environment: Jupyter Notebook     
 
 # FILES INCLUDED
-HR_Data_Analysis.ipynb: Jupyter Notebook containing the data analysis code and visualizations.
-HR Data Analysis.sql: SQL file (Analysis and Manipulation).
-HR Data.csv: CSV file containing the HR dataset used for analysis.
-README.md: Project overview, dataset description, analysis objectives, tools and technologies used and files included.
+1. HR_Data_Analysis.ipynb: Jupyter Notebook containing the data analysis code and visualizations.     
+2. HR Data Analysis.sql: SQL file (Analysis and Manipulation).     
+3. HR Data.csv: CSV file containing the HR dataset used for analysis.     
+4. README.md: Project overview, dataset description, analysis objectives, tools and technologies used and files included.
 
 # ACKNOWLEDGEMENTS 
 Special thanks to AFAME TECHNOLOGIES for providing the HR dataset used in this analysis.
