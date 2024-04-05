@@ -133,7 +133,7 @@ Experience-Based Retention: Develop programs to retain and mentor young employee
 
 Diversity and Inclusion: Evaluate gender-specific attrition patterns and implement strategies to promote gender diversity and inclusivity. Address any disparities in opportunities or treatment that may contribute to higher attrition among certain demographic groups.
 
-KEY AREAS TO FOCUS:
+**KEY AREAS TO FOCUS:**
 
 1. Talent Retention Programs: Develop comprehensive talent retention programs focusing on career development, employee engagement, and work-life balance initiatives.
 2.Departmental Collaboration: Foster collaboration between departments to share best practices for talent retention and create a supportive organizational culture.
