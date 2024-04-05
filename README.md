@@ -82,11 +82,11 @@ YearsSinceLastPromotion: Number of years since the last promotion (integer).
 YearsWithCurrManager: Number of years with the current manager (integer).
 
 The dataset includes 35 columns of 26 numerical and 9 categorical data. There are 1470 data in total and no null values in the dataset.
-# Analysis Objectives
+# ANALYSIS OBJECTIVE
 
 The primary objectives of this analysis include:
 
-Retention Analysis: Understanding factors contributing to employee turnover and identifying strategies to improve retention rates.
+Retention Analysis: Understanding factors contributing to employee turnover and identifying strategies to improve retention rates.      
 Performance Evaluation: Analyzing correlations between job satisfaction, performance ratings, and career progression metrics.
 Compensation Benchmarking: Assessing salary distributions across departments and job levels to ensure fair compensation practices.
 Workforce Planning: Identifying skill gaps, training needs, and succession planning opportunities within the organization.
