@@ -87,9 +87,9 @@ The dataset includes 35 columns of 26 numerical and 9 categorical data. There ar
 The primary objectives of this analysis include:
 
 Retention Analysis: Understanding factors contributing to employee turnover and identifying strategies to improve retention rates.      
-Performance Evaluation: Analyzing correlations between job satisfaction, performance ratings, and career progression metrics.
-Compensation Benchmarking: Assessing salary distributions across departments and job levels to ensure fair compensation practices.
-Workforce Planning: Identifying skill gaps, training needs, and succession planning opportunities within the organization.
+Performance Evaluation: Analyzing correlations between job satisfaction, performance ratings, and career progression metrics.       
+Compensation Benchmarking: Assessing salary distributions across departments and job levels to ensure fair compensation practices.        
+Workforce Planning: Identifying skill gaps, training needs, and succession planning opportunities within the organization.          
 Diversity and Inclusion: Examining demographic data to promote diversity and inclusion initiatives
 
 
